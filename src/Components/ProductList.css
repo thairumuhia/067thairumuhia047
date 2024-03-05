@@ -1,0 +1,10 @@
+.product-item{
+    padding: 20px;
+}
+.shopping-item{
+    display: flex;
+    flex-wrap: wrap;
+}
+.shopping-item p:hover{
+    color: rgb(206, 34, 120);
+}

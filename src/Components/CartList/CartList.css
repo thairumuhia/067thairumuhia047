@@ -1,0 +1,30 @@
+body{
+    background-color:whitesmoke;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.cartquantity{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    margin-left: 30px;
+}
+.cart button{
+    border: none;
+    margin-left: 40px;
+    background-color:#ffff;
+    font-weight: 1000;
+    font-size: large;
+
+}
+.total{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
